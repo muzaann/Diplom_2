@@ -1,0 +1,1 @@
+{"uuid": "40d5e71b-c61a-4974-a78a-f5e262c83da8", "children": ["fd0fb74c-d147-42db-85bf-d7a2ed6c4728"], "befores": [{"name": "get_ingredient_hash", "status": "passed", "start": 1712483262053, "stop": 1712483262493}], "afters": [{"name": "get_ingredient_hash::0", "status": "passed", "start": 1712483263379, "stop": 1712483263380}], "start": 1712483262053, "stop": 1712483263380}
